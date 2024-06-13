@@ -1,4 +1,4 @@
-# 피부암 분류 프로젝트
+## 피부암 분류 프로젝트
 ### 데이터셋 출처
 https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000?select=HAM10000_metadata.csv
 
